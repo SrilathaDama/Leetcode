@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/SrilathaDama/Leetcode/tree/master/0274-h-index) |
 | [0853-most-profit-assigning-work](https://github.com/SrilathaDama/Leetcode/tree/master/0853-most-profit-assigning-work) |
 # Two Pointers
 |  |
@@ -20,4 +21,9 @@
 # Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/SrilathaDama/Leetcode/tree/master/0274-h-index) |
 | [0853-most-profit-assigning-work](https://github.com/SrilathaDama/Leetcode/tree/master/0853-most-profit-assigning-work) |
+# Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/SrilathaDama/Leetcode/tree/master/0274-h-index) |
