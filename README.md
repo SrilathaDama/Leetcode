@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SrilathaDama/Leetcode/tree/master/0054-spiral-matrix) |
 | [0274-h-index](https://github.com/SrilathaDama/Leetcode/tree/master/0274-h-index) |
 | [0853-most-profit-assigning-work](https://github.com/SrilathaDama/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SrilathaDama/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -44,3 +45,11 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SrilathaDama/Leetcode/tree/master/0013-roman-to-integer) |
+# Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SrilathaDama/Leetcode/tree/master/0054-spiral-matrix) |
+# Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SrilathaDama/Leetcode/tree/master/0054-spiral-matrix) |
