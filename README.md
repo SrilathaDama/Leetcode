@@ -7,6 +7,7 @@
 | [0054-spiral-matrix](https://github.com/SrilathaDama/Leetcode/tree/master/0054-spiral-matrix) |
 | [0274-h-index](https://github.com/SrilathaDama/Leetcode/tree/master/0274-h-index) |
 | [0853-most-profit-assigning-work](https://github.com/SrilathaDama/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1138-grumpy-bookstore-owner](https://github.com/SrilathaDama/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SrilathaDama/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SrilathaDama/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
@@ -53,3 +54,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SrilathaDama/Leetcode/tree/master/0054-spiral-matrix) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/SrilathaDama/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
