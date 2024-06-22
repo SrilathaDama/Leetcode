@@ -8,6 +8,7 @@
 | [0274-h-index](https://github.com/SrilathaDama/Leetcode/tree/master/0274-h-index) |
 | [0853-most-profit-assigning-work](https://github.com/SrilathaDama/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/SrilathaDama/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SrilathaDama/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SrilathaDama/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
@@ -38,10 +39,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SrilathaDama/Leetcode/tree/master/0013-roman-to-integer) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SrilathaDama/Leetcode/tree/master/0013-roman-to-integer) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
 | ------- |
@@ -58,3 +61,4 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/SrilathaDama/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
