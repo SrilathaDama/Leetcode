@@ -7,6 +7,7 @@
 | [0054-spiral-matrix](https://github.com/SrilathaDama/Leetcode/tree/master/0054-spiral-matrix) |
 | [0274-h-index](https://github.com/SrilathaDama/Leetcode/tree/master/0274-h-index) |
 | [0853-most-profit-assigning-work](https://github.com/SrilathaDama/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SrilathaDama/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/SrilathaDama/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SrilathaDama/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -60,5 +61,18 @@
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SrilathaDama/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/SrilathaDama/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SrilathaDama/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SrilathaDama/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SrilathaDama/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
