@@ -44,6 +44,7 @@
 # Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SrilathaDama/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/SrilathaDama/Leetcode/tree/master/0013-roman-to-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # String
