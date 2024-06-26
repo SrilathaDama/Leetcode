@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/SrilathaDama/Leetcode/tree/master/0054-spiral-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrilathaDama/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0274-h-index](https://github.com/SrilathaDama/Leetcode/tree/master/0274-h-index) |
 | [0853-most-profit-assigning-work](https://github.com/SrilathaDama/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SrilathaDama/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -16,6 +17,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrilathaDama/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/SrilathaDama/Leetcode/tree/master/0853-most-profit-assigning-work) |
 # Binary Search
 |  |
@@ -90,6 +92,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SrilathaDama/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SrilathaDama/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
