@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/SrilathaDama/Leetcode/tree/master/0054-spiral-matrix) |
 | [0274-h-index](https://github.com/SrilathaDama/Leetcode/tree/master/0274-h-index) |
 | [0853-most-profit-assigning-work](https://github.com/SrilathaDama/Leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -39,6 +40,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SrilathaDama/Leetcode/tree/master/0013-roman-to-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Math
