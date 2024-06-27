@@ -103,3 +103,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/0014-longest-common-prefix) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/SrilathaDama/Leetcode/tree/master/1916-find-center-of-star-graph) |
