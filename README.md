@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SrilathaDama/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/0014-longest-common-prefix) |
 # Matrix
 |  |
 | ------- |
@@ -98,3 +99,7 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/SrilathaDama/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/0014-longest-common-prefix) |
