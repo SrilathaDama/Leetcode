@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/SrilathaDama/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2645-pass-the-pillow](https://github.com/SrilathaDama/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Counting
 |  |
 | ------- |
@@ -166,4 +167,5 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SrilathaDama/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/SrilathaDama/Leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
