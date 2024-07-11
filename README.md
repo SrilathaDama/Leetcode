@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SrilathaDama/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SrilathaDama/Leetcode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/SrilathaDama/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SrilathaDama/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SrilathaDama/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SrilathaDama/Leetcode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
@@ -163,6 +165,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SrilathaDama/Leetcode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SrilathaDama/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
