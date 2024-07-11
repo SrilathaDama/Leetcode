@@ -120,6 +120,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SrilathaDama/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1720-crawler-log-folder](https://github.com/SrilathaDama/Leetcode/tree/master/1720-crawler-log-folder) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SrilathaDama/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/SrilathaDama/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SrilathaDama/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SrilathaDama/Leetcode/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
