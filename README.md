@@ -144,6 +144,7 @@
 | [2048-build-array-from-permutation](https://github.com/SrilathaDama/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SrilathaDama/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2846-robot-collisions](https://github.com/SrilathaDama/Leetcode/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0015-3sum](https://github.com/SrilathaDama/Leetcode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SrilathaDama/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2846-robot-collisions](https://github.com/SrilathaDama/Leetcode/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [2058-concatenation-of-array](https://github.com/SrilathaDama/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SrilathaDama/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/SrilathaDama/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/SrilathaDama/Leetcode/tree/master/2846-robot-collisions) |
 ## Recursion
 |  |
 | ------- |
@@ -206,4 +209,5 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SrilathaDama/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/SrilathaDama/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/SrilathaDama/Leetcode/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
