@@ -158,6 +158,7 @@
 | [2048-build-array-from-permutation](https://github.com/SrilathaDama/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SrilathaDama/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2350-find-closest-number-to-zero](https://github.com/SrilathaDama/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2502-sort-the-people](https://github.com/SrilathaDama/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/SrilathaDama/Leetcode/tree/master/2846-robot-collisions) |
 ## Math
