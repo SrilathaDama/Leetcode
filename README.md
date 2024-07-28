@@ -127,6 +127,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SrilathaDama/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/SrilathaDama/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/SrilathaDama/Leetcode/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/SrilathaDama/Leetcode/tree/master/0392-is-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SrilathaDama/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/SrilathaDama/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -183,6 +184,7 @@
 | [0011-container-with-most-water](https://github.com/SrilathaDama/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SrilathaDama/Leetcode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/SrilathaDama/Leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/SrilathaDama/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
@@ -294,6 +296,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/SrilathaDama/Leetcode/tree/master/0392-is-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SrilathaDama/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
