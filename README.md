@@ -149,6 +149,7 @@
 | [0041-first-missing-positive](https://github.com/SrilathaDama/Leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrilathaDama/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0948-sort-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SrilathaDama/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/SrilathaDama/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -199,6 +200,7 @@
 | [0035-search-insert-position](https://github.com/SrilathaDama/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SrilathaDama/Leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SrilathaDama/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SrilathaDama/Leetcode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/SrilathaDama/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SrilathaDama/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -259,6 +262,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SrilathaDama/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Tree
 |  |
@@ -308,6 +312,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrilathaDama/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/SrilathaDama/Leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SrilathaDama/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/SrilathaDama/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SrilathaDama/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
