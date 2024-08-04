@@ -163,6 +163,7 @@
 | [1511-count-number-of-teams](https://github.com/SrilathaDama/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SrilathaDama/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/SrilathaDama/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -199,6 +200,7 @@
 | [0015-3sum](https://github.com/SrilathaDama/Leetcode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SrilathaDama/Leetcode/tree/master/0392-is-subsequence) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/SrilathaDama/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
@@ -210,6 +212,7 @@
 | [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/SrilathaDama/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SrilathaDama/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +222,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/SrilathaDama/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SrilathaDama/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SrilathaDama/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SrilathaDama/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/SrilathaDama/Leetcode/tree/master/2502-sort-the-people) |
