@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SrilathaDama/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SrilathaDama/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SrilathaDama/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/SrilathaDama/Leetcode/tree/master/0035-search-insert-position) |
@@ -207,6 +208,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SrilathaDama/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SrilathaDama/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SrilathaDama/Leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -300,6 +302,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SrilathaDama/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0948-sort-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
