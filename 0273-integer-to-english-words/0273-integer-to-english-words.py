@@ -1,50 +1,29 @@
 class Solution:
     def numberToWords(self, num: int) -> str:
-        below_twenty = ["","One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"]
-        tens_places = ["","","Twenty","Thirty","Forty", "Fifty", "Sixty","Seventy","Eighty","Ninety"]
-
         if num == 0:
             return "Zero"
-        def two_digit(num):
-            if num < 20:
-                return below_twenty[num]
+        
+        # Helper arrays to convert numbers to words
+        less_than_20 = ["", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", 
+                        "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"]
+        tens = ["", "", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"]
+        thousands = ["", "Thousand", "Million", "Billion"]
+        
+        def helper(n):
+            if n == 0:
+                return ""
+            elif n < 20:
+                return less_than_20[n] + " "
+            elif n < 100:
+                return tens[n // 10] + " " + helper(n % 10)
             else:
-                tens = num//10
-                ones = num % 10
-                return tens_places[tens] + ('' if ones == 0 else ' ' + below_twenty[ones])
-
+                return less_than_20[n // 100] + " Hundred " + helper(n % 100)
         
-        def three_digit(num):
-            if not num:
-                return ''
-            if not num//100:
-                return two_digit(num)
-            return below_twenty[num//100] + ' ' + 'Hundred' + (' ' + two_digit(num % 100) if num % 100 else '')
-
-        billion = num//1000000000
-        million = (num//1000000) % 1000
-        thousand = (num//1000) % 1000
-        hundred = num % 1000
-
-        res = ''
-        if billion:
-            res += three_digit(billion) + ' Billion'
-        if million:
-            if res:
-                res += ' '
-            res += three_digit(million) + ' Million'
-
-        if thousand:
-            if res:
-                res += ' '
-            res += three_digit(thousand) + ' Thousand'
-        
-        if hundred:
-            if res:
-                res += ' '
-            res += three_digit(hundred)
+        res = ""
+        for i, unit in enumerate(thousands):
+            if num % 1000 != 0:
+                res = helper(num % 1000) + unit + " " + res
+            num //= 1000
         
         return res.strip()
-
-
         
