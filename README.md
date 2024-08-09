@@ -117,6 +117,7 @@
 | [0013-roman-to-integer](https://github.com/SrilathaDama/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/SrilathaDama/Leetcode/tree/master/0041-first-missing-positive) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0870-magic-squares-in-grid](https://github.com/SrilathaDama/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SrilathaDama/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/SrilathaDama/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -163,6 +164,7 @@
 | [0228-summary-ranges](https://github.com/SrilathaDama/Leetcode/tree/master/0228-summary-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0870-magic-squares-in-grid](https://github.com/SrilathaDama/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/SrilathaDama/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/SrilathaDama/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/0948-sort-an-array) |
@@ -197,6 +199,7 @@
 | [0013-roman-to-integer](https://github.com/SrilathaDama/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SrilathaDama/Leetcode/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/SrilathaDama/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/SrilathaDama/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/SrilathaDama/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1635-number-of-good-pairs](https://github.com/SrilathaDama/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/SrilathaDama/Leetcode/tree/master/1642-water-bottles) |
@@ -295,6 +298,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/SrilathaDama/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SrilathaDama/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Prefix Sum
