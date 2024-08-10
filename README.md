@@ -118,6 +118,7 @@
 | [0041-first-missing-positive](https://github.com/SrilathaDama/Leetcode/tree/master/0041-first-missing-positive) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/SrilathaDama/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SrilathaDama/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/SrilathaDama/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -168,6 +169,7 @@
 | [0907-koko-eating-bananas](https://github.com/SrilathaDama/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/SrilathaDama/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SrilathaDama/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/SrilathaDama/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SrilathaDama/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -300,6 +302,7 @@
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/SrilathaDama/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SrilathaDama/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Prefix Sum
 |  |
@@ -316,6 +319,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SrilathaDama/Leetcode/tree/master/0100-same-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -325,6 +329,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SrilathaDama/Leetcode/tree/master/0100-same-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -371,4 +376,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/SrilathaDama/Leetcode/tree/master/1511-count-number-of-teams) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
