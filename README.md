@@ -183,6 +183,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SrilathaDama/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/SrilathaDama/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SrilathaDama/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/SrilathaDama/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SrilathaDama/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -306,6 +307,7 @@
 | [0870-magic-squares-in-grid](https://github.com/SrilathaDama/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SrilathaDama/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SrilathaDama/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Prefix Sum
 |  |
@@ -323,6 +325,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SrilathaDama/Leetcode/tree/master/0100-same-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SrilathaDama/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/SrilathaDama/Leetcode/tree/master/0100-same-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SrilathaDama/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -388,4 +392,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/SrilathaDama/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SrilathaDama/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
