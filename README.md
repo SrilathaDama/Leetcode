@@ -182,6 +182,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/SrilathaDama/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/SrilathaDama/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SrilathaDama/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1240-stone-game-ii](https://github.com/SrilathaDama/Leetcode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/SrilathaDama/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SrilathaDama/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/SrilathaDama/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -218,6 +219,7 @@
 | [0650-2-keys-keyboard](https://github.com/SrilathaDama/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/SrilathaDama/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/SrilathaDama/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1240-stone-game-ii](https://github.com/SrilathaDama/Leetcode/tree/master/1240-stone-game-ii) |
 | [1635-number-of-good-pairs](https://github.com/SrilathaDama/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/SrilathaDama/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SrilathaDama/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -337,6 +339,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SrilathaDama/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1240-stone-game-ii](https://github.com/SrilathaDama/Leetcode/tree/master/1240-stone-game-ii) |
 ## Tree
 |  |
 | ------- |
@@ -404,6 +407,7 @@
 | [0392-is-subsequence](https://github.com/SrilathaDama/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/SrilathaDama/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/SrilathaDama/Leetcode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SrilathaDama/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/SrilathaDama/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SrilathaDama/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -465,4 +469,8 @@
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SrilathaDama/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/SrilathaDama/Leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
