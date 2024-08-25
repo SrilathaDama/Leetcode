@@ -327,6 +327,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SrilathaDama/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SrilathaDama/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/SrilathaDama/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SrilathaDama/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -351,12 +352,14 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SrilathaDama/Leetcode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SrilathaDama/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SrilathaDama/Leetcode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SrilathaDama/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2213-find-all-people-with-secret](https://github.com/SrilathaDama/Leetcode/tree/master/2213-find-all-people-with-secret) |
@@ -365,6 +368,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SrilathaDama/Leetcode/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SrilathaDama/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
