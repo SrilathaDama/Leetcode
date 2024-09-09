@@ -216,6 +216,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SrilathaDama/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2350-find-closest-number-to-zero](https://github.com/SrilathaDama/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2411-spiral-matrix-iv](https://github.com/SrilathaDama/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/SrilathaDama/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/SrilathaDama/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/SrilathaDama/Leetcode/tree/master/2846-robot-collisions) |
@@ -312,6 +313,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/SrilathaDama/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/SrilathaDama/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SrilathaDama/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/SrilathaDama/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SrilathaDama/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -327,6 +329,7 @@
 | [2058-concatenation-of-array](https://github.com/SrilathaDama/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SrilathaDama/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SrilathaDama/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/SrilathaDama/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/SrilathaDama/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/SrilathaDama/Leetcode/tree/master/2846-robot-collisions) |
 ## Recursion
@@ -360,6 +363,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/SrilathaDama/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SrilathaDama/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/SrilathaDama/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
 |  |
 | ------- |
