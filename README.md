@@ -123,6 +123,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SrilathaDama/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SrilathaDama/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SrilathaDama/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/SrilathaDama/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SrilathaDama/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -142,6 +143,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/SrilathaDama/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/SrilathaDama/Leetcode/tree/master/0664-strange-printer) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SrilathaDama/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SrilathaDama/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/SrilathaDama/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SrilathaDama/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -372,6 +374,7 @@
 | [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SrilathaDama/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/SrilathaDama/Leetcode/tree/master/1240-stone-game-ii) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SrilathaDama/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SrilathaDama/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Tree
 |  |
@@ -520,6 +523,7 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/SrilathaDama/Leetcode/tree/master/0476-number-complement) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SrilathaDama/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SrilathaDama/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SrilathaDama/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Bitmask
