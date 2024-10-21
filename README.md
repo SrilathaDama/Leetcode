@@ -128,6 +128,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SrilathaDama/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/SrilathaDama/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SrilathaDama/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/SrilathaDama/Leetcode/tree/master/2502-sort-the-people) |
@@ -153,6 +154,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SrilathaDama/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/SrilathaDama/Leetcode/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SrilathaDama/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/SrilathaDama/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SrilathaDama/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -546,6 +548,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0040-combination-sum-ii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
