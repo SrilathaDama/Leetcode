@@ -229,6 +229,7 @@
 | [1755-defuse-the-bomb](https://github.com/SrilathaDama/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/SrilathaDama/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SrilathaDama/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1972-rotating-the-box](https://github.com/SrilathaDama/Leetcode/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SrilathaDama/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SrilathaDama/Leetcode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/SrilathaDama/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -291,6 +292,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SrilathaDama/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/SrilathaDama/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1972-rotating-the-box](https://github.com/SrilathaDama/Leetcode/tree/master/1972-rotating-the-box) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SrilathaDama/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
@@ -405,6 +407,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SrilathaDama/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1972-rotating-the-box](https://github.com/SrilathaDama/Leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/SrilathaDama/Leetcode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/SrilathaDama/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SrilathaDama/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
