@@ -1,14 +1,9 @@
 class Solution:
     def pickGifts(self, gifts: List[int], k: int) -> int:
-        nums = [-num for num in gifts]
-        heapify(nums)
-        
         while k:
-            tmp = math.isqrt(-heappop(nums))
-            heappush(nums, -tmp)
+            gifts.sort(reverse=True)
+            pile = gifts[0]
+            gifts.pop(0)
+            gifts.append(int(sqrt(pile)))
             k -= 1
-            
-        return -sum(nums)
-        
-       
-        
+        return sum(gifts)
