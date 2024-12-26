@@ -155,6 +155,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/SrilathaDama/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/SrilathaDama/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SrilathaDama/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0649-dota2-senate](https://github.com/SrilathaDama/Leetcode/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/SrilathaDama/Leetcode/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SrilathaDama/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SrilathaDama/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -359,6 +360,7 @@
 | [0179-largest-number](https://github.com/SrilathaDama/Leetcode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/SrilathaDama/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0649-dota2-senate](https://github.com/SrilathaDama/Leetcode/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/SrilathaDama/Leetcode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/SrilathaDama/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1304-longest-happy-string](https://github.com/SrilathaDama/Leetcode/tree/master/1304-longest-happy-string) |
@@ -405,6 +407,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/SrilathaDama/Leetcode/tree/master/0649-dota2-senate) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SrilathaDama/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
