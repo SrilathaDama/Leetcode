@@ -205,6 +205,7 @@
 | [0228-summary-ranges](https://github.com/SrilathaDama/Leetcode/tree/master/0228-summary-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/SrilathaDama/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/SrilathaDama/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SrilathaDama/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -535,6 +536,7 @@
 | [0264-ugly-number-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/SrilathaDama/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/SrilathaDama/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/SrilathaDama/Leetcode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/SrilathaDama/Leetcode/tree/master/1240-stone-game-ii) |
@@ -598,6 +600,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Monotonic Stack
 |  |
