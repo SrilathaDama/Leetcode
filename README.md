@@ -167,6 +167,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SrilathaDama/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/SrilathaDama/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrilathaDama/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/SrilathaDama/Leetcode/tree/master/2502-sort-the-people) |
@@ -238,6 +239,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/SrilathaDama/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/SrilathaDama/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/SrilathaDama/Leetcode/tree/master/1803-average-waiting-time) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrilathaDama/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SrilathaDama/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/SrilathaDama/Leetcode/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SrilathaDama/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -447,6 +449,7 @@
 | [1240-stone-game-ii](https://github.com/SrilathaDama/Leetcode/tree/master/1240-stone-game-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SrilathaDama/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrilathaDama/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SrilathaDama/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Tree
 |  |
