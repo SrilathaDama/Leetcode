@@ -170,6 +170,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrilathaDama/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/SrilathaDama/Leetcode/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/SrilathaDama/Leetcode/tree/master/2547-odd-string-difference) |
 | [2727-number-of-senior-citizens](https://github.com/SrilathaDama/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -254,6 +255,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SrilathaDama/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/SrilathaDama/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SrilathaDama/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/SrilathaDama/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -651,6 +653,7 @@
 ## String Matching
 |  |
 | ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SrilathaDama/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
