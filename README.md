@@ -142,6 +142,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrilathaDama/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/SrilathaDama/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SrilathaDama/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -182,6 +183,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrilathaDama/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SrilathaDama/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/SrilathaDama/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SrilathaDama/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrilathaDama/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/SrilathaDama/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
