@@ -395,6 +395,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SrilathaDama/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/SrilathaDama/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0725-split-linked-list-in-parts](https://github.com/SrilathaDama/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/SrilathaDama/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SrilathaDama/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -424,6 +425,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/SrilathaDama/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0273-integer-to-english-words](https://github.com/SrilathaDama/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SrilathaDama/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
