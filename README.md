@@ -280,6 +280,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SrilathaDama/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SrilathaDama/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/SrilathaDama/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SrilathaDama/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SrilathaDama/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Math
@@ -464,6 +465,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/SrilathaDama/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/SrilathaDama/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2722-prime-in-diagonal](https://github.com/SrilathaDama/Leetcode/tree/master/2722-prime-in-diagonal) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/SrilathaDama/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Prefix Sum
 |  |
 | ------- |
