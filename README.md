@@ -287,6 +287,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SrilathaDama/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SrilathaDama/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SrilathaDama/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/SrilathaDama/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SrilathaDama/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SrilathaDama/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -436,6 +437,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SrilathaDama/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/SrilathaDama/Leetcode/tree/master/2846-robot-collisions) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SrilathaDama/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -556,6 +558,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SrilathaDama/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SrilathaDama/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/SrilathaDama/Leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SrilathaDama/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
