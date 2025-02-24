@@ -172,6 +172,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/SrilathaDama/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SrilathaDama/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1764-maximum-repeating-substring](https://github.com/SrilathaDama/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/SrilathaDama/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrilathaDama/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -592,6 +593,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SrilathaDama/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/SrilathaDama/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SrilathaDama/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1764-maximum-repeating-substring](https://github.com/SrilathaDama/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/SrilathaDama/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SrilathaDama/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -697,6 +699,7 @@
 ## String Matching
 |  |
 | ------- |
+| [1764-maximum-repeating-substring](https://github.com/SrilathaDama/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SrilathaDama/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
