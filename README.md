@@ -142,6 +142,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/SrilathaDama/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SrilathaDama/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SrilathaDama/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SrilathaDama/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrilathaDama/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -280,6 +281,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SrilathaDama/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SrilathaDama/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SrilathaDama/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2722-prime-in-diagonal](https://github.com/SrilathaDama/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/SrilathaDama/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -348,6 +350,7 @@
 | [1972-rotating-the-box](https://github.com/SrilathaDama/Leetcode/tree/master/1972-rotating-the-box) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SrilathaDama/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SrilathaDama/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
