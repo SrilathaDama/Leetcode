@@ -183,6 +183,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SrilathaDama/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/SrilathaDama/Leetcode/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/SrilathaDama/Leetcode/tree/master/2547-odd-string-difference) |
 | [2727-number-of-senior-citizens](https://github.com/SrilathaDama/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -200,6 +201,7 @@
 | [0567-permutation-in-string](https://github.com/SrilathaDama/Leetcode/tree/master/0567-permutation-in-string) |
 | [1755-defuse-the-bomb](https://github.com/SrilathaDama/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SrilathaDama/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SrilathaDama/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SrilathaDama/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Array
 |  |
