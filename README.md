@@ -126,6 +126,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/SrilathaDama/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SrilathaDama/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/SrilathaDama/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SrilathaDama/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SrilathaDama/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SrilathaDama/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/SrilathaDama/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -167,6 +168,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/SrilathaDama/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SrilathaDama/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/SrilathaDama/Leetcode/tree/master/1304-longest-happy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SrilathaDama/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SrilathaDama/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/SrilathaDama/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -200,6 +202,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SrilathaDama/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/SrilathaDama/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0567-permutation-in-string](https://github.com/SrilathaDama/Leetcode/tree/master/0567-permutation-in-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SrilathaDama/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/SrilathaDama/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SrilathaDama/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SrilathaDama/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
