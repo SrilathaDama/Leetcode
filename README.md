@@ -247,6 +247,7 @@
 | [1293-three-consecutive-odds](https://github.com/SrilathaDama/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/SrilathaDama/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SrilathaDama/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/SrilathaDama/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/SrilathaDama/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SrilathaDama/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1511-count-number-of-teams](https://github.com/SrilathaDama/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -376,6 +377,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SrilathaDama/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0907-koko-eating-bananas](https://github.com/SrilathaDama/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SrilathaDama/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/SrilathaDama/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SrilathaDama/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SrilathaDama/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
