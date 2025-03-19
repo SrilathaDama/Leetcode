@@ -208,6 +208,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SrilathaDama/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/SrilathaDama/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SrilathaDama/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SrilathaDama/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Array
 |  |
 | ------- |
@@ -304,6 +305,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SrilathaDama/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/SrilathaDama/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SrilathaDama/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SrilathaDama/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SrilathaDama/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3643-zero-array-transformation-ii](https://github.com/SrilathaDama/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -479,6 +481,7 @@
 | ------- |
 | [0649-dota2-senate](https://github.com/SrilathaDama/Leetcode/tree/master/0649-dota2-senate) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SrilathaDama/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SrilathaDama/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -522,6 +525,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrilathaDama/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SrilathaDama/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SrilathaDama/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/SrilathaDama/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Tree
 |  |
@@ -707,6 +711,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SrilathaDama/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SrilathaDama/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2848-special-permutations](https://github.com/SrilathaDama/Leetcode/tree/master/2848-special-permutations) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SrilathaDama/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bitmask
 |  |
 | ------- |
