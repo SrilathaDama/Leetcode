@@ -306,6 +306,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SrilathaDama/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/SrilathaDama/Leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3430-count-days-without-meetings](https://github.com/SrilathaDama/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SrilathaDama/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SrilathaDama/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SrilathaDama/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -417,6 +418,7 @@
 | [2846-robot-collisions](https://github.com/SrilathaDama/Leetcode/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SrilathaDama/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SrilathaDama/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3430-count-days-without-meetings](https://github.com/SrilathaDama/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Greedy
 |  |
 | ------- |
