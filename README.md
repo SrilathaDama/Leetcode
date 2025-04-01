@@ -285,6 +285,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SrilathaDama/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SrilathaDama/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/SrilathaDama/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SrilathaDama/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2350-find-closest-number-to-zero](https://github.com/SrilathaDama/Leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -648,6 +649,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/SrilathaDama/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SrilathaDama/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SrilathaDama/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2262-solving-questions-with-brainpower](https://github.com/SrilathaDama/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2848-special-permutations](https://github.com/SrilathaDama/Leetcode/tree/master/2848-special-permutations) |
