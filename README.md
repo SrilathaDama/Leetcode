@@ -141,6 +141,7 @@
 | [2502-sort-the-people](https://github.com/SrilathaDama/Leetcode/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/SrilathaDama/Leetcode/tree/master/2547-odd-string-difference) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/SrilathaDama/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SrilathaDama/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SrilathaDama/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -211,6 +212,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SrilathaDama/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SrilathaDama/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/SrilathaDama/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SrilathaDama/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SrilathaDama/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Array
@@ -301,6 +303,7 @@
 | [2502-sort-the-people](https://github.com/SrilathaDama/Leetcode/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/SrilathaDama/Leetcode/tree/master/2547-odd-string-difference) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/SrilathaDama/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SrilathaDama/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SrilathaDama/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SrilathaDama/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
