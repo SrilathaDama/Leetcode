@@ -230,6 +230,7 @@
 | [0040-combination-sum-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/SrilathaDama/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SrilathaDama/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/SrilathaDama/Leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrilathaDama/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SrilathaDama/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -420,6 +421,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SrilathaDama/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SrilathaDama/Leetcode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/SrilathaDama/Leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/SrilathaDama/Leetcode/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/SrilathaDama/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
