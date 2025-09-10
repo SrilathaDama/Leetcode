@@ -135,6 +135,7 @@
 | [1635-number-of-good-pairs](https://github.com/SrilathaDama/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SrilathaDama/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/SrilathaDama/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SrilathaDama/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SrilathaDama/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SrilathaDama/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -279,6 +280,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SrilathaDama/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/SrilathaDama/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/SrilathaDama/Leetcode/tree/master/1803-average-waiting-time) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/SrilathaDama/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SrilathaDama/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SrilathaDama/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/SrilathaDama/Leetcode/tree/master/1972-rotating-the-box) |
@@ -465,6 +467,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SrilathaDama/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SrilathaDama/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SrilathaDama/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/SrilathaDama/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2089-maximum-matrix-sum](https://github.com/SrilathaDama/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SrilathaDama/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2309-maximize-number-of-subsequences-in-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/2309-maximize-number-of-subsequences-in-a-string) |
