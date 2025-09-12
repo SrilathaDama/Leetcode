@@ -203,6 +203,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SrilathaDama/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SrilathaDama/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SrilathaDama/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -363,6 +364,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/SrilathaDama/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2722-prime-in-diagonal](https://github.com/SrilathaDama/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SrilathaDama/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3462-vowels-game-in-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -770,6 +772,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/SrilathaDama/Leetcode/tree/master/1240-stone-game-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -814,4 +817,8 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/SrilathaDama/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SrilathaDama/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
