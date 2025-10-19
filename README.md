@@ -247,6 +247,7 @@
 | [0179-largest-number](https://github.com/SrilathaDama/Leetcode/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/SrilathaDama/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/SrilathaDama/Leetcode/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/SrilathaDama/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/SrilathaDama/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/SrilathaDama/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -400,6 +401,7 @@
 | [0016-3sum-closest](https://github.com/SrilathaDama/Leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/SrilathaDama/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SrilathaDama/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/SrilathaDama/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SrilathaDama/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SrilathaDama/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/SrilathaDama/Leetcode/tree/master/0567-permutation-in-string) |
