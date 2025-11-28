@@ -603,6 +603,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/SrilathaDama/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1745-find-nearest-right-node-in-binary-tree](https://github.com/SrilathaDama/Leetcode/tree/master/1745-find-nearest-right-node-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/SrilathaDama/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/SrilathaDama/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -619,6 +620,7 @@
 | [2035-count-sub-islands](https://github.com/SrilathaDama/Leetcode/tree/master/2035-count-sub-islands) |
 | [2213-find-all-people-with-secret](https://github.com/SrilathaDama/Leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/SrilathaDama/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/SrilathaDama/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
