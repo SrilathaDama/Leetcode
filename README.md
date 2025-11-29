@@ -345,6 +345,7 @@
 | [3430-count-days-without-meetings](https://github.com/SrilathaDama/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SrilathaDama/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SrilathaDama/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SrilathaDama/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SrilathaDama/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SrilathaDama/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SrilathaDama/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -382,6 +383,7 @@
 | [2722-prime-in-diagonal](https://github.com/SrilathaDama/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SrilathaDama/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3462-vowels-game-in-a-string](https://github.com/SrilathaDama/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SrilathaDama/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
