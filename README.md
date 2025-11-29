@@ -553,6 +553,7 @@
 | [0042-trapping-rain-water](https://github.com/SrilathaDama/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/SrilathaDama/Leetcode/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SrilathaDama/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SrilathaDama/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SrilathaDama/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -758,6 +759,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SrilathaDama/Leetcode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SrilathaDama/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
